@@ -1,0 +1,83 @@
+/* * {
+  background-color: cyan;
+} */
+
+body {
+  background-color: #f1faee;
+}
+
+button {
+  font-size: 30px;
+  background-color: #a8dadc;
+}
+
+h1,
+h2 {
+  color: #1d3557;
+}
+
+#signup {
+  background-color: #1d3557;
+  color: #f1faee;
+}
+
+span {
+  color: #457b9d;
+}
+
+.tag {
+  background-color: rgb(131, 93, 23);
+  color: #f1faee;
+  font-size: 18px;
+  border-radius: 6px;
+}
+
+.post a {
+  color: #457b9d;
+}
+
+footer a {
+  color: #e63946;
+}
+
+button:hover {
+  background-color: tomato;
+  color: #f1faee;
+}
+
+#box1 {
+  background-color: rgb(118, 239, 118);
+  height: 200px;
+  width: 200px;
+  padding: 30px;
+  border: 10px solid black;
+  border-radius: 20%;
+  margin: 10px;
+}
+#box2 {
+  background-color: rgb(118, 239, 118);
+  height: 200px;
+  width: 200px;
+  padding: 30px;
+  border: 10px solid black;
+  border-radius: 20%;
+  margin: 10px;
+}
+#box3 {
+  background-color: rgb(118, 239, 118);
+  height: 200px;
+  width: 200px;
+  padding: 30px;
+  border: 10px solid black;
+  border-radius: 20%;
+  margin: 10px;
+}
+#box4 {
+  background-color: rgb(118, 239, 118);
+  height: 200px;
+  width: 200px;
+  padding: 30px;
+  border: 10px solid rgb(123, 121, 121);
+  border-radius: 20%;
+  margin: 10px;
+}
